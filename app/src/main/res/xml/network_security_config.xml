@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">onwards.iptime.org</domain>
+        <domain includeSubdomains="true">192.168.0.54</domain>
+        <domain includeSubdomains="true">lifelogop.ghealth.or.kr</domain>
+        <domain includeSubdomains="true">192.168.0.136</domain>
+        <domain includeSubdomains="true">192.168.0.9</domain>
+    </domain-config>
+</network-security-config>
