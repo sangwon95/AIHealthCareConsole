@@ -4,7 +4,12 @@
         <domain includeSubdomains="true">onwards.iptime.org</domain>
         <domain includeSubdomains="true">192.168.0.54</domain>
         <domain includeSubdomains="true">lifelogop.ghealth.or.kr</domain>
+        <domain includeSubdomains="true">gslifelog.ghealth.or.kr</domain>
+        <domain includeSubdomains="true">gslifelogop.ghealth.or.kr</domain>
         <domain includeSubdomains="true">192.168.0.136</domain>
+        <domain includeSubdomains="true">youtube.com</domain>
         <domain includeSubdomains="true">192.168.0.9</domain>
+        <domain includeSubdomains="true">10.10.10.85</domain>
+        <domain includeSubdomains="true">221.168.252.145</domain>
     </domain-config>
 </network-security-config>
